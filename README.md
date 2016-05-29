@@ -1,4 +1,4 @@
 # workshop
-docs for our [OBOR workshop](slikroad.report) 
+docs for our [OBOR workshop](www.slikroad.report) 
 
 
